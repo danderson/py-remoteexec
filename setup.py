@@ -7,7 +7,7 @@ setup(
     version = '1.0.0',
     author = 'David Anderson',
     py_modules = ['remoteexec'],
-    author_email = 'dave@natulte.net',
+    author_email = 'danderson@google.com',
     license = 'Apache License, Version 2.0',
     url = 'http://bitbucket.org/danderson/py-remoteexec',
     description = 'Ship code to a remote server and run it there.',
